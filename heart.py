@@ -55,11 +55,11 @@ def txt():
     pen.down()
   
     # Set the text color to lightgreen
-    pen.color('white')
+    pen.color('lightgreen')
   
     # Write the specified text in 
     # specified font style and size
-    pen.write("hello", font=(
+    pen.write("geeksforgeeks", font=(
       "Verdana", 15, "bold"))
   
   
